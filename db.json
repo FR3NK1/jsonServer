@@ -28,4 +28,21 @@
   "profile": {
     "name": "typicode"
   }
+  "video_lesson": [
+  {
+    "id": 1,
+    "title": "Video1",
+    "link": "link1"
+  },
+  {
+    "id": 1,
+    "title": "Video1",
+    "link": "link1"
+  },
+  {
+    "id": 1,
+    "title": "Video1",
+    "link": "link1"
+  }
+  ]
 }
