@@ -13,6 +13,7 @@
       "title": "Post 3"
     }
   ],
+  
   "comments": [
     {
       "id": 1,
@@ -25,9 +26,11 @@
       "postId": 1
     }
   ],
+  
   "profile": {
     "name": "typicode"
-  }
+  },
+  
   "video_lesson": [
   {
     "id": 1,
