@@ -119,18 +119,18 @@
   "video_lessons": [
   {
     "id": 1,
-    "title": "Video1",
-    "link": "link1"
+    "title": "Сильная дебютная ловушка. Гарантированная победа",
+    "link": "https://youtu.be/UwqIWWce4ac"
   },
   {
-    "id": 1,
-    "title": "Video1",
-    "link": "link1"
+    "id": 2,
+    "title": "Основы шахматной игры. Часть 1 - Основы дебюта",
+    "link": "https://youtu.be/2wArqXQDBkA"
   },
   {
-    "id": 1,
-    "title": "Video1",
-    "link": "link1"
+    "id": 3,
+    "title": "Три правила дебюта в шахматах",
+    "link": "https://youtu.be/zr6BmDj6vwI"
   }
   ]
 }
