@@ -3,71 +3,71 @@
     {
       "id": 1,
       "name": "Магнус Карлсен",
-      "description": "123",
-      "rating": "2864",
+      "description": "Биография игрока",
+      "rating": 2864,
       "picture": "https://www.istmira.com/uploads/posts/2019-02/1550783694_carlsen-gct-blitz-76.jpg"
     },
     {
       "id": 2,
       "name": "Алиреза Фирузджа",
-      "description": "123",
-      "rating": "2804",
+      "description": "Биография игрока",
+      "rating": 2804,
       "picture": "https://photokade.com/wp-content/uploads/alirezafirouzja-photokade-com-4.jpg"
     },
     {
       "id": 3,
       "name": "Дин Лижэнь",
-      "description": "123",
-      "rating": "2799",
+      "description": "Биография игрока",
+      "rating": 2799,
       "picture": "https://images.chesscomfiles.com/uploads/v1/master_player/00ffadde-d6a8-11e8-bdb9-933b839db343.31293b1e.1200x1200o.2bf9dd442fdd.jpeg"
     },
     {
       "id": 4,
       "name": "Левон Аронян",
-      "description": "123",
-      "rating": "2785",
+      "description": "Биография игрока",
+      "rating": 2785,
       "picture": "http://www.quantumgambitz.com/blog/wp-content/uploads/2019/06/aronian.jpg"
     },
     {
       "id": 5,
       "name": "Фабиано Каруана",
-      "description": "123",
-      "rating": "2781",
+      "description": "Биография игрока",
+      "rating": 2781,
       "picture": "https://sun9-38.userapi.com/impg/c857220/v857220046/1ea163/vjSxVGfV9Z4.jpg?size=558x604&quality=96&sign=fc2cff9db9b55f4cc1d1e3f62ee49a7c&type=album"
     },
     {
       "id": 6,
       "name": "Уэсли Со",
-      "description": "123",
-      "rating": "2778",
+      "description": "Биография игрока",
+      "rating": 2778,
       "picture": "https://yandex-images.clstorage.net/5ace51u05/85e3591uumMN/4s73klqLZpxIH-QuA_K-V6F9LGUiYFSdDPErqkMeIfnVaYLzFLK1BF4ZP1Q1rRcuckbjhuQ96FGN_CxIau_CvdYaUlc6_hM8qUogG8a2j7e0eMkgdhXELXywC7oCm8F7d6sA1eeQ1xb4nuggMCiDn2LiEpcDK5kF-JkpLo5roEy0aQHAi8mm_Gh9UB2jECoEYy2Ox7Em1gwNFTnqwCpCq-YYkPXmcXYkOZ1IQSEJEXxRtVInUAqdpZnIaSzOeZIst-qTcGqq1K0Jj6JO82ArhWH-vLZilgXc__eLuLF6MKq12oKkpcJ3VTpuGbMBqkKNgxQD5gIofAQZ65p9nKhxbIUbo1Iaa0SPGd2gnECxG6SDrE9FINSHP8zHulqDKICoNLiA1aahdada3vrSMsgzjkMGoOZyq_-16Airbx1rYv4lOmNw67lm38uuwi-i0Rj3cv_-haG2xT1NNeiIAprj28coQad0oPTlW546gOM7Iy5yx5C0w6jP9fhJCX0fSnNMBcsS4quaRP0bjrINg4KqhKEffgRgdYddf0aJ6uBIEfr0GDHkRKN1NAitGBMCC1CPYTbCJQIbPGZY6hk83PkybOYYIxCKeSU9eY3gvnHh-ddTXx4XINU0j3_VmLtQuLBJhtnx10YiRCT6_qqDkgqjr8A0wjaAWT_nOLhLz1zqUm4l-uJSO8rnjVvvkF6TM7hkYX7NZDHFJrzNNntpEpvweYUrUtc0c3QV6E7oE7CIg78jRIOGMFrvdcnoSl1OqaBtVdqzcPkrxcz6noI-8yFq1kO9nvfyxlcNbJT6-wKL4-nlS2Hl9VJkBjl8yEGQ-BB9cCaChxGLP9TZy3qM_auRrGfrImJ5KvV82h5A_-Ij-oWxT6x2EfT1bD1W2wjwyoCK9giQdJbCV5bJTGjj8nig7rL3oLTz--wWyno7TG9Z0a2nG2LjaIpU7vksoJ3Do6omYm-9tOOlhN4cFOrLc"
     },
     {
       "id": 7,
       "name": "Рихард Раппорт",
-      "description": "123",
-      "rating": "2776",
+      "description": "Биография игрока",
+      "rating": 2776,
       "picture": "https://www.chessabc.com/uploads/img/player/rapport-richard.jpg"
     },
     {
       "id": 8,
       "name": "Аниш Гири",
-      "description": "123",
-      "rating": "2773",
+      "description": "Биография игрока",
+      "rating": 2773,
       "picture": "https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/PeterDoggers/php5ZH6iF.jpeg"
     },
     {
       "id": 9,
       "name": "Ян Непомнящий",
-      "description": "123",
-      "rating": "2773",
+      "description": "Биография игрока",
+      "rating": 2773,
       "picture": "https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/PeterDoggers/phpQHitAE.jpeg"
     },
     {
       "id": 10,
       "name": "Шахрияр Мамедьяров",
-      "description": "123",
-      "rating": "2771",
+      "description": "Биография игрока",
+      "rating": 2771,
       "picture": "https://cdnn1.img.sputnik.az/img/40698/25/406982503_418:0:1581:1280_1920x0_80_0_0_0051e496c856c8a23d8c53ead5417c91.jpg"
     }
   ],
@@ -77,61 +77,61 @@
     "id": 1,
     "title": "Сильная дебютная ловушка. Гарантированная победа",
     "link": "https://youtu.be/UwqIWWce4ac",
-    "views": "234"
+    "views": 234
   },
   {
     "id": 2,
     "title": "Основы шахматной игры. Часть 1 - Основы дебюта",
     "link": "https://youtu.be/2wArqXQDBkA",
-    "views": "234"
+    "views": 234
   },
   {
     "id": 3,
     "title": "Три правила дебюта в шахматах",
     "link": "https://youtu.be/zr6BmDj6vwI",
-    "views": "234"
+    "views": 234
   },
   {
     "id": 4,
     "title": "Три правила дебюта в шахматах",
     "link": "https://youtu.be/zr6BmDj6vwI",
-    "views": "234"
+    "views": 234
   },
   {
     "id": 5,
     "title": "Три правила дебюта в шахматах",
     "link": "https://youtu.be/zr6BmDj6vwI",
-    "views": "234"
+    "views": 234
   },
   {
     "id": 6,
     "title": "Три правила дебюта в шахматах",
     "link": "https://youtu.be/zr6BmDj6vwI",
-    "views": "234"
+    "views": 234
   },
   {
     "id": 7,
     "title": "Три правила дебюта в шахматах",
     "link": "https://youtu.be/zr6BmDj6vwI",
-    "views": "234"
+    "views": 234
   },
   {
     "id": 8,
     "title": "Три правила дебюта в шахматах",
     "link": "https://youtu.be/zr6BmDj6vwI",
-    "views": "234"
+    "views": 234
   },
   {
     "id": 9,
     "title": "Три правила дебюта в шахматах",
     "link": "https://youtu.be/zr6BmDj6vwI",
-    "views": "234"
+    "views": 234
   },
   {
     "id": 10,
     "title": "Три правила дебюта в шахматах",
     "link": "https://youtu.be/zr6BmDj6vwI",
-    "views": "234"
+    "views": 234
   }
   ],
   
