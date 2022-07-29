@@ -76,52 +76,135 @@
   {
     "id": 1,
     "title": "Сильная дебютная ловушка. Гарантированная победа",
-    "link": "https://youtu.be/UwqIWWce4ac"
+    "link": "https://youtu.be/UwqIWWce4ac",
+    "views": "234"
   },
   {
     "id": 2,
     "title": "Основы шахматной игры. Часть 1 - Основы дебюта",
-    "link": "https://youtu.be/2wArqXQDBkA"
+    "link": "https://youtu.be/2wArqXQDBkA",
+    "views": "234"
   },
   {
     "id": 3,
     "title": "Три правила дебюта в шахматах",
-    "link": "https://youtu.be/zr6BmDj6vwI"
+    "link": "https://youtu.be/zr6BmDj6vwI",
+    "views": "234"
   },
   {
     "id": 4,
     "title": "Три правила дебюта в шахматах",
-    "link": "https://youtu.be/zr6BmDj6vwI"
+    "link": "https://youtu.be/zr6BmDj6vwI",
+    "views": "234"
   },
   {
     "id": 5,
     "title": "Три правила дебюта в шахматах",
-    "link": "https://youtu.be/zr6BmDj6vwI"
+    "link": "https://youtu.be/zr6BmDj6vwI",
+    "views": "234"
   },
   {
     "id": 6,
     "title": "Три правила дебюта в шахматах",
-    "link": "https://youtu.be/zr6BmDj6vwI"
+    "link": "https://youtu.be/zr6BmDj6vwI",
+    "views": "234"
   },
   {
     "id": 7,
     "title": "Три правила дебюта в шахматах",
-    "link": "https://youtu.be/zr6BmDj6vwI"
+    "link": "https://youtu.be/zr6BmDj6vwI",
+    "views": "234"
   },
   {
     "id": 8,
     "title": "Три правила дебюта в шахматах",
-    "link": "https://youtu.be/zr6BmDj6vwI"
+    "link": "https://youtu.be/zr6BmDj6vwI",
+    "views": "234"
   },
   {
     "id": 9,
     "title": "Три правила дебюта в шахматах",
-    "link": "https://youtu.be/zr6BmDj6vwI"
+    "link": "https://youtu.be/zr6BmDj6vwI",
+    "views": "234"
   },
   {
     "id": 10,
     "title": "Три правила дебюта в шахматах",
-    "link": "https://youtu.be/zr6BmDj6vwI"
+    "link": "https://youtu.be/zr6BmDj6vwI",
+    "views": "234"
+  }
+  ],
+  
+  "theory": [
+  {
+    "id": 1,
+    "title": "Венская партия",
+    "description": "Описание партии",
+    "type": "Тип партии",
+    "picture": "https://avatars.mds.yandex.net/get-zen_doc/1658683/pub_5ed0c1d2acb2997dfab33ec7_5ed0c4e1e7b27a79fdc87210/scale_1200"
+  },
+  {
+    "id": 2,
+    "title": "Дебют Нимцовича",
+    "description": "Описание партии",
+    "type": "Тип партии",
+    "picture": "https://avatars.mds.yandex.net/get-zen_doc/1658683/pub_5ed0c1d2acb2997dfab33ec7_5ed0c4e1e7b27a79fdc87210/scale_1200"
+  },
+  {
+    "id": 3,
+    "title": "Защита Грюнфельда",
+    "description": "Описание партии",
+    "type": "Тип партии",
+    "picture": "https://avatars.mds.yandex.net/get-zen_doc/1658683/pub_5ed0c1d2acb2997dfab33ec7_5ed0c4e1e7b27a79fdc87210/scale_1200"
+  },
+  {
+    "id": 4,
+    "title": "Королевский гамбит",
+    "description": "Описание партии",
+    "type": "Тип партии",
+    "picture": "https://avatars.mds.yandex.net/get-zen_doc/1658683/pub_5ed0c1d2acb2997dfab33ec7_5ed0c4e1e7b27a79fdc87210/scale_1200"
+  },
+  {
+    "id": 5,
+    "title": "Дебют слона",
+    "description": "Описание партии",
+    "type": "Тип партии",
+    "picture": "https://avatars.mds.yandex.net/get-zen_doc/1658683/pub_5ed0c1d2acb2997dfab33ec7_5ed0c4e1e7b27a79fdc87210/scale_1200"
+  },
+  {
+    "id": 6,
+    "title": "Скандинавская защита",
+    "description": "Описание партии",
+    "type": "Тип партии",
+    "picture": "https://avatars.mds.yandex.net/get-zen_doc/1658683/pub_5ed0c1d2acb2997dfab33ec7_5ed0c4e1e7b27a79fdc87210/scale_1200"
+  },
+  {
+    "id": 7,
+    "title": "Дебют ферзевых пешек",
+    "description": "Описание партии",
+    "type": "Тип партии",
+    "picture": "https://avatars.mds.yandex.net/get-zen_doc/1658683/pub_5ed0c1d2acb2997dfab33ec7_5ed0c4e1e7b27a79fdc87210/scale_1200"
+  },
+  {
+    "id": 8,
+    "title": "Латышский гамбит",
+    "description": "Описание партии",
+    "type": "Тип партии",
+    "picture": "https://avatars.mds.yandex.net/get-zen_doc/1658683/pub_5ed0c1d2acb2997dfab33ec7_5ed0c4e1e7b27a79fdc87210/scale_1200"
+  },
+  {
+    "id": 9,
+    "title": "Центральный дебют",
+    "description": "Описание партии",
+    "type": "Тип партии",
+    "picture": "https://avatars.mds.yandex.net/get-zen_doc/1658683/pub_5ed0c1d2acb2997dfab33ec7_5ed0c4e1e7b27a79fdc87210/scale_1200"
+  },
+  {
+    "id": 10,
+    "title": "Защита Алехина",
+    "description": "Описание партии",
+    "type": "Тип партии",
+    "picture": "https://avatars.mds.yandex.net/get-zen_doc/1658683/pub_5ed0c1d2acb2997dfab33ec7_5ed0c4e1e7b27a79fdc87210/scale_1200"
   }
   ]
 }
