@@ -55,20 +55,6 @@
       "description": "Пример биографии представлен на старнице Магнуса Карлсена",
       "rating": 2773,
       "picture": "https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/PeterDoggers/php5ZH6iF.jpeg"
-    },
-    {
-      "id": 9,
-      "name": "Ян Непомнящий",
-      "description": "Пример биографии представлен на старнице Магнуса Карлсена",
-      "rating": 2773,
-      "picture": "https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/PeterDoggers/phpQHitAE.jpeg"
-    },
-    {
-      "id": 10,
-      "name": "Шахрияр Мамедьяров",
-      "description": "Пример биографии представлен на старнице Магнуса Карлсена",
-      "rating": 2771,
-      "picture": "https://cdnn1.img.sputnik.az/img/40698/25/406982503_418:0:1581:1280_1920x0_80_0_0_0051e496c856c8a23d8c53ead5417c91.jpg"
     }
   ],
   
@@ -152,20 +138,6 @@
   {
     "id": 8,
     "title": "Латышский гамбит",
-    "description": "Описание партии",
-    "type": "Тип партии",
-    "picture": "https://avatars.mds.yandex.net/get-zen_doc/1658683/pub_5ed0c1d2acb2997dfab33ec7_5ed0c4e1e7b27a79fdc87210/scale_1200"
-  },
-  {
-    "id": 9,
-    "title": "Центральный дебют",
-    "description": "Описание партии",
-    "type": "Тип партии",
-    "picture": "https://avatars.mds.yandex.net/get-zen_doc/1658683/pub_5ed0c1d2acb2997dfab33ec7_5ed0c4e1e7b27a79fdc87210/scale_1200"
-  },
-  {
-    "id": 10,
-    "title": "Защита Алехина",
     "description": "Описание партии",
     "type": "Тип партии",
     "picture": "https://avatars.mds.yandex.net/get-zen_doc/1658683/pub_5ed0c1d2acb2997dfab33ec7_5ed0c4e1e7b27a79fdc87210/scale_1200"
