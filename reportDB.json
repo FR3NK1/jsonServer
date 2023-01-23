@@ -1,0 +1,111 @@
+[
+  {
+    key: 1,
+    OrganizationExploiter: 'Org0',
+    TotalCountSpta: 688,
+    CountNotStartedReengineered: 627,
+    CountSptaMeasurements: 778,
+    CountSptaDevelopedDesignDocumentation: 613,
+    CountSptaPotentialManufactures: 194,
+    CountSptaInstance: 794,
+    CountSptaReengineeredCompleted: 10
+  }, {
+    key: 2,
+    OrganizationExploiter: 'Org1',
+    TotalCountSpta: 520,
+    CountNotStartedReengineered: 661,
+    CountSptaMeasurements: 579,
+    CountSptaDevelopedDesignDocumentation: 813,
+    CountSptaPotentialManufactures: 647,
+    CountSptaInstance: 120,
+    CountSptaReengineeredCompleted: 97
+  },
+  {
+    key: 3,
+    OrganizationExploiter: 'Org2',
+    TotalCountSpta: 854,
+    CountNotStartedReengineered: 145,
+    CountSptaMeasurements: 529,
+    CountSptaDevelopedDesignDocumentation: 624,
+    CountSptaPotentialManufactures: 343,
+    CountSptaInstance: 654,
+    CountSptaReengineeredCompleted: 129
+  },
+  {
+    key: 4,
+    OrganizationExploiter: 'Org3',
+    TotalCountSpta: 669,
+    CountNotStartedReengineered: 711,
+    CountSptaMeasurements: 233,
+    CountSptaDevelopedDesignDocumentation: 922,
+    CountSptaPotentialManufactures: 914,
+    CountSptaInstance: 965,
+    CountSptaReengineeredCompleted: 402
+  },
+  {
+    key: 5,
+    OrganizationExploiter: 'Org4',
+    TotalCountSpta: 112,
+    CountNotStartedReengineered: 22,
+    CountSptaMeasurements: 769,
+    CountSptaDevelopedDesignDocumentation: 192,
+    CountSptaPotentialManufactures: 834,
+    CountSptaInstance: 248,
+    CountSptaReengineeredCompleted: 363
+  },
+  {
+    key: 6,
+    OrganizationExploiter: 'Org5',
+    TotalCountSpta: 525,
+    CountNotStartedReengineered: 639,
+    CountSptaMeasurements: 612,
+    CountSptaDevelopedDesignDocumentation: 35,
+    CountSptaPotentialManufactures: 86,
+    CountSptaInstance: 338,
+    CountSptaReengineeredCompleted: 476
+  },
+  {
+    key: 7,
+    OrganizationExploiter: 'Org6',
+    TotalCountSpta: 660,
+    CountNotStartedReengineered: 318,
+    CountSptaMeasurements: 444,
+    CountSptaDevelopedDesignDocumentation: 795,
+    CountSptaPotentialManufactures: 657,
+    CountSptaInstance: 585,
+    CountSptaReengineeredCompleted: 52
+  },
+  {
+    key: 8,
+    OrganizationExploiter: 'Org7',
+    TotalCountSpta: 701,
+    CountNotStartedReengineered: 642,
+    CountSptaMeasurements: 979,
+    CountSptaDevelopedDesignDocumentation: 369,
+    CountSptaPotentialManufactures: 889,
+    CountSptaInstance: 209,
+    CountSptaReengineeredCompleted: 679
+  },
+  {
+    key: 9,
+    OrganizationExploiter: 'Org8',
+    TotalCountSpta: 661,
+    CountNotStartedReengineered: 331,
+    CountSptaMeasurements: 691,
+    CountSptaDevelopedDesignDocumentation: 829,
+    CountSptaPotentialManufactures: 868,
+    CountSptaInstance: 933,
+    CountSptaReengineeredCompleted: 73
+  },
+  {
+    key: 10,
+    OrganizationExploiter: 'Org9',
+    TotalCountSpta: 370,
+    CountNotStartedReengineered: 741,
+    CountSptaMeasurements: 755,
+    CountSptaDevelopedDesignDocumentation: 58,
+    CountSptaPotentialManufactures: 817,
+    CountSptaInstance: 580,
+    CountSptaReengineeredCompleted: 557
+  }, 
+]
