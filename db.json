@@ -1,13 +1,57 @@
 [
   {
     "key": 1,
-    "OrganizationExploiter": "Org0",
-    "TotalCountSpta": 320,
-    "CountNotStartedReengineered": 131,
-    "CountSptaMeasurements": 681,
-    "CountSptaDevelopedDesignDocumentation": 64,
-    "CountSptaPotentialManufactures": 472,
-    "CountSptaInstance": 374,
-    "CountSptaReengineeredCompleted": 71
+    "OrganizationExploiter": "Завод 1",
+    "TotalCountSpta": 120,
+    "CountNotStartedReengineered": 10,
+    "CountSptaMeasurements": 15,
+    "CountSptaDevelopedDesignDocumentation": 17,
+    "CountSptaPotentialManufactures": 34,
+    "CountSptaInstance": 41,
+    "CountSptaReengineeredCompleted": 3
+  },
+  {
+    "key": 2,
+    "OrganizationExploiter": "Завод 2",
+    "TotalCountSpta": 37,
+    "CountNotStartedReengineered": 4,
+    "CountSptaMeasurements": 5,
+    "CountSptaDevelopedDesignDocumentation": 12,
+    "CountSptaPotentialManufactures": 11,
+    "CountSptaInstance": 3,
+    "CountSptaReengineeredCompleted": 2
+  },
+  {
+    "key": 3,
+    "OrganizationExploiter": "Завод 3",
+    "TotalCountSpta": 39,
+    "CountNotStartedReengineered": 22,
+    "CountSptaMeasurements": 3,
+    "CountSptaDevelopedDesignDocumentation": 7,
+    "CountSptaPotentialManufactures": 2,
+    "CountSptaInstance": 0,
+    "CountSptaReengineeredCompleted": 5
+  },
+  {
+    "key": 4,
+    "OrganizationExploiter": "Завод 4",
+    "TotalCountSpta": 15,
+    "CountNotStartedReengineered": 5,
+    "CountSptaMeasurements": 4,
+    "CountSptaDevelopedDesignDocumentation": 3,
+    "CountSptaPotentialManufactures": 2,
+    "CountSptaInstance": 1,
+    "CountSptaReengineeredCompleted": 0
+  },
+  {
+    "key": 5,
+    "OrganizationExploiter": "Завод 5",
+    "TotalCountSpta": 35,
+    "CountNotStartedReengineered": 5,
+    "CountSptaMeasurements": 4,
+    "CountSptaDevelopedDesignDocumentation": 5,
+    "CountSptaPotentialManufactures": 6,
+    "CountSptaInstance": 7,
+    "CountSptaReengineeredCompleted": 8
   }
 ]
