@@ -1,7 +1,7 @@
 [
   {
     "key": 1,
-    "OrganizationExploiter": 'Org0',
+    "OrganizationExploiter": "Org0",
     "TotalCountSpta": 320,
     "CountNotStartedReengineered": 131,
     "CountSptaMeasurements": 681,
