@@ -1,57 +1,146 @@
-[
+{
+  "chess_player": [
+    {
+      "id": 1,
+      "name": "Магнус Карлсен",
+      "description": "Свен Магнус Ээн Карлсен (Sven Magnus Carlsen) – феноменально талантливый шахматист, первый в истории чемпион мира сразу по трем официальным вариантам игры: «классике», блицу и рапиду. В 2018 году он также завоевал неофициальное чемпионское звание по Фишер-рэндому (разновидность шахмат, по которой ЧМ официально не проводятся).\n\n«Моцарт в шахматах», как его называли в масс-медиа, стал одним из самых молодых обладателей высшего шахматного титула – гроссмейстер, заслужив его в 13 лет. Он пять раз становился лауреатом «Шахматного Оскара» и смог блестяще реализовать свой совершенно фантастический потенциал, добившись в 2014-м самого высокого рейтинга Эло (показателя силы игрока) за всю историю его существования (2843 пунктов по данным 2018 года), побив рекорд Гарри Каспарова, удерживаемый им на протяжении 13 лет...",
+      "rating": 2864,
+      "picture": "https://www.istmira.com/uploads/posts/2019-02/1550783694_carlsen-gct-blitz-76.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Алиреза Фирузджа",
+      "description": "Пример биографии представлен на старнице Магнуса Карлсена",
+      "rating": 2804,
+      "picture": "https://photokade.com/wp-content/uploads/alirezafirouzja-photokade-com-4.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Дин Лижэнь",
+      "description": "Пример биографии представлен на старнице Магнуса Карлсена",
+      "rating": 2799,
+      "picture": "https://images.chesscomfiles.com/uploads/v1/master_player/00ffadde-d6a8-11e8-bdb9-933b839db343.31293b1e.1200x1200o.2bf9dd442fdd.jpeg"
+    },
+    {
+      "id": 4,
+      "name": "Левон Аронян",
+      "description": "Пример биографии представлен на старнице Магнуса Карлсена",
+      "rating": 2785,
+      "picture": "https://img200-ru.redtram.com/news/595946394s.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Фабиано Каруана",
+      "description": "Пример биографии представлен на старнице Магнуса Карлсена",
+      "rating": 2781,
+      "picture": "https://sun9-38.userapi.com/impg/c857220/v857220046/1ea163/vjSxVGfV9Z4.jpg?size=558x604&quality=96&sign=fc2cff9db9b55f4cc1d1e3f62ee49a7c&type=album"
+    },
+    {
+      "id": 6,
+      "name": "Уэсли Со",
+      "description": "Пример биографии представлен на старнице Магнуса Карлсена",
+      "rating": 2778,
+      "picture": "https://chesshive.com/wp-content/uploads/2017/04/wesley-so-r9-us-chess-2017.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Рихард Раппорт",
+      "description": "Пример биографии представлен на старнице Магнуса Карлсена",
+      "rating": 2776,
+      "picture": "https://www.chessabc.com/uploads/img/player/rapport-richard.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Аниш Гири",
+      "description": "Пример биографии представлен на старнице Магнуса Карлсена",
+      "rating": 2773,
+      "picture": "https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/PeterDoggers/php5ZH6iF.jpeg"
+    }
+  ],
+  
+  "video_lessons": [
   {
-    "key": 1,
-    "OrganizationExploiter": "Завод 1",
-    "TotalCountSpta": 120,
-    "CountNotStartedReengineered": 10,
-    "CountSptaMeasurements": 15,
-    "CountSptaDevelopedDesignDocumentation": 17,
-    "CountSptaPotentialManufactures": 34,
-    "CountSptaInstance": 41,
-    "CountSptaReengineeredCompleted": 3
+    "id": 1,
+    "title": "Сильная дебютная ловушка. Гарантированная победа",
+    "link": "https://youtu.be/UwqIWWce4ac",
+    "views": 4126431
   },
   {
-    "key": 2,
-    "OrganizationExploiter": "Завод 2",
-    "TotalCountSpta": 37,
-    "CountNotStartedReengineered": 4,
-    "CountSptaMeasurements": 5,
-    "CountSptaDevelopedDesignDocumentation": 12,
-    "CountSptaPotentialManufactures": 11,
-    "CountSptaInstance": 3,
-    "CountSptaReengineeredCompleted": 2
+    "id": 2,
+    "title": "Основы шахматной игры. Часть 1 - Основы дебюта",
+    "link": "https://youtu.be/2wArqXQDBkA",
+    "views": 2006355
   },
   {
-    "key": 3,
-    "OrganizationExploiter": "Завод 3",
-    "TotalCountSpta": 39,
-    "CountNotStartedReengineered": 22,
-    "CountSptaMeasurements": 3,
-    "CountSptaDevelopedDesignDocumentation": 7,
-    "CountSptaPotentialManufactures": 2,
-    "CountSptaInstance": 0,
-    "CountSptaReengineeredCompleted": 5
+    "id": 3,
+    "title": "Три правила дебюта в шахматах",
+    "link": "https://youtu.be/zr6BmDj6vwI",
+    "views": 279394
   },
   {
-    "key": 4,
-    "OrganizationExploiter": "Завод 4",
-    "TotalCountSpta": 15,
-    "CountNotStartedReengineered": 5,
-    "CountSptaMeasurements": 4,
-    "CountSptaDevelopedDesignDocumentation": 3,
-    "CountSptaPotentialManufactures": 2,
-    "CountSptaInstance": 1,
-    "CountSptaReengineeredCompleted": 0
-  },
-  {
-    "key": 5,
-    "OrganizationExploiter": "Завод 5",
-    "TotalCountSpta": 35,
-    "CountNotStartedReengineered": 5,
-    "CountSptaMeasurements": 4,
-    "CountSptaDevelopedDesignDocumentation": 5,
-    "CountSptaPotentialManufactures": 6,
-    "CountSptaInstance": 7,
-    "CountSptaReengineeredCompleted": 8
+    "id": 4,
+    "title": "Способ выиграть любую партию. Секретная ловушка",
+    "link": "https://youtu.be/5I7mA1s4UKE",
+    "views": 115918
   }
-]
+  ],
+  
+  "theory": [
+  {
+    "id": 1,
+    "title": "Шахматная доска",
+    "description": "Шахматы — древнейшая игра и издавна она сравнивалась с военным сражением. По одной из легенд даже изобретение шахмат связывают с заказом одного правителя-полководца, который хотел получить игру, так сказать, симулятор реальной битвы двух армий. И хотя живая кровь в шахматах не льётся, но вполне уместно представить шахматиста как полководца командующего армией фигур, чтобы лучше понять хитрости баталий за шахматной доской. А начать, пожалуй, следует именно с этой самой шахматной доски.\n\nЕстественно, каждый полководец должен изучить расположение и рельеф местности, где ему предстоит планировать и вести сражения. Шахматисту в этом отношении проще, ведь все свои бои он будет проводить на одной и той же «местности», на стандартной шахматной доске. Но уж эту «местность» опытные игроки изучают досконально, помнят буквально по именам собственное имя каждой клеточки, ее цвет, знают в каком месте доски скорее всего будет происходить самая жаркая борьба, как и какие фигуры туда лучше подвести…",
+    "type": "Правила игры",
+    "picture": "https://chess-boom.online/wp-content/uploads/2018/02/pravila.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Рокировка в шахматах",
+    "description": "Пример описания представлен на старнице “Шахматная доска“",
+    "type": "Правила игры",
+    "picture": "https://chess-boom.online/wp-content/uploads/2018/02/korotkaya-rokirovka.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Базовые пешечные структуры",
+    "description": "Пример описания представлен на старнице “Шахматная доска“",
+    "type": "Статьи о шахматах",
+    "picture": "https://chess-boom.online/wp-content/uploads/2020/04/bazovye-peshechnye-struktury.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Королевский гамбит",
+    "description": "Пример описания представлен на старнице “Шахматная доска“",
+    "type": "Шахматные гамбиты",
+    "picture": "https://chessmatenok.ru/wp-content/uploads/2017/02/Kf3-Cc4-1.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Дебют слона",
+    "description": "Пример описания представлен на старнице “Шахматная доска“",
+    "type": "Открытые дебюты",
+    "picture": "https://chessmatenok.ru/wp-content/uploads/2017/02/f5-1.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Детский мат в шахматах",
+    "description": "Пример описания представлен на старнице “Шахматная доска“",
+    "type": "Для начинающих",
+    "picture": "https://chess-boom.online/wp-content/uploads/2018/03/Notatsiya-Pos2.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Секреты игры в шахматы",
+    "description": "Пример описания представлен на старнице “Шахматная доска“",
+    "type": "Для начинающих",
+    "picture": "https://avatars.mds.yandex.net/get-zen_doc/1658683/pub_5ed0c1d2acb2997dfab33ec7_5ed0c4e1e7b27a79fdc87210/scale_1200"
+  },
+  {
+    "id": 8,
+    "title": "Связка в шахматах",
+    "description": "Пример описания представлен на старнице “Шахматная доска“",
+    "type": "Шахматные термины",
+    "picture": "https://images.chesscomfiles.com/uploads/v1/user/37992394.58825c19.160x160o.d3e21a37b17c@2x.jpeg"
+  }
+  ]
+}
